@@ -1,4 +1,4 @@
-package com.example
+package com.example.demo.datafetchers
 
 import com.netflix.graphql.dgs.DgsComponent
 import com.netflix.graphql.dgs.DgsQuery
